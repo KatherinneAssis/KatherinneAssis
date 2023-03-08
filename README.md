@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&center=true&vCenter=true&width=1000&lines=Hi,+there+My+Name+Is+Katherinne+Assis;I'm+22+Years+Old;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=(220,20,60)&center=true&vCenter=true&width=1000&lines=Hi,+there+My+Name+Is+Katherinne+Assis;I'm+22+Years+Old;
 I'm+starting+to+program+now.;Interact with me<3;)](https://git.io/typing-svg
-  
+
   
 ### Hi, there. I'm Katherinne Assis. 🦝
 

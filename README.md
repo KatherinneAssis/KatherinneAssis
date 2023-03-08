@@ -5,12 +5,14 @@
 
 
 <div id="header" self-align="right">
+  
   <img src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" width="100"/> 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherinne-assis-a9100516a/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31dny5pldkkpjgixwi4fdcovyn5m)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatherinneAssis&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatherinneAssis&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+  
  </div>
 
 

@@ -4,9 +4,9 @@
 🦝
 
 
-<div id="header" self-align="right">
+<div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" width="100"/> 
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="500"/> 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherinne-assis-a9100516a/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31dny5pldkkpjgixwi4fdcovyn5m)

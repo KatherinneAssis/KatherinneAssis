@@ -1,4 +1,8 @@
-  ### Hi, there. I'm Katherinne Assis. 🦝
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&center=true&vCenter=true&width=1000&lines=Hi,+there+My+Name+Is+Katherinne+Assis;I'm+22+Years+Old;
+I'm+starting+to+program+now.;Interact with me<3;)](https://git.io/typing-svg
+  
+  
+### Hi, there. I'm Katherinne Assis. 🦝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherinne-assis-a9100516a/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31dny5pldkkpjgixwi4fdcovyn5m)

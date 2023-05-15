@@ -10,14 +10,12 @@
   
 <div align="center">
   <a href="https://github.com/KatherinneAssis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KatherinneAssis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatherinneAssis&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KatherinneAssis&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatherinneAssis&layout=compact&langs_count=7&theme=light"/>
+</div>  
  </div>
 
-  ## Languages I use in my days
-
+## Languages I use in my days
 <b style="display: inline_block">
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <bstyle="display: inline_block">
